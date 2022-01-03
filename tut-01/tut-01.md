@@ -22,7 +22,7 @@ This tutorial will be different in some ways from most other tutorials, in that:
 
 1. [Do these things](things-to-do-beforehand.md) before continuing.
 2. [Look through the script](how-things-are-checked.md) JP will use to gauge your readiness.
-3. Go to the [tutorials document](https://github.com/MRU-CSIS-3512-202201-001/shared-course-material/blob/main/tutorials.md) in our GitHub Org.
+3. Go to the [GitHub Classroom Links section of the tutorials document](https://github.com/MRU-CSIS-3512-202201-001/shared-course-material/blob/main/tutorials.md#github-classroom-links) in our GitHub Org.
 4. Click on the correct (depending on your tutorial time) link to accept the "assignment". 
 
     _For all other tutorials, links won't be active until about 5 minutes before the start of tutorial._
@@ -56,6 +56,5 @@ So what exactly am I looking for when I check your progress? Enough work done in
 
 That's probably not as precise as you might like, but I'm afraid we're dealing with one of those "I know it when I see it" things.
 
-If you've completed all your work
 
 
