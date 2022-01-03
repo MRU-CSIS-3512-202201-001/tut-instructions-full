@@ -11,34 +11,28 @@ This tutorial will be different in some ways from most other tutorials, in that:
 - there is no programming involved, and
 - you know ahead of time exactly what is expected of you
 
+
 ## What things are being checked
 
 [Here are the things](what-things-are-checked.md) being checked in this tutorial.
-
-## Preparing for the tutorial
-
-[Here are the things you should do](things-to-do-beforehand.md) before coming to tutorial.
-
-## How things are being checked
-
-[Here is **how**](how-things-are-checked.md) JP will be checking your work.
 
 ## Instructions
 
 ### Getting the starting repo
 
-1. Go to the [tutorials document](https://github.com/MRU-CSIS-3512-202201-001/shared-course-material/blob/main/tutorials.md) in our GitHub Org.
-2. Click on the correct (depending on your tutorial time) link to accept the "assignment". 
+1. [Do these things](things-to-do-beforehand.md) before continuing.
+2. [Look through the script](how-things-are-checked.md) JP will use to gauge your readiness.
+3. Go to the [tutorials document](https://github.com/MRU-CSIS-3512-202201-001/shared-course-material/blob/main/tutorials.md) in our GitHub Org.
+4. Click on the correct (depending on your tutorial time) link to accept the "assignment". 
 
     _For all other tutorials, links won't be active until about 5 minutes before the start of tutorial._
 
-3. Clone the accepted repository to your computer.
-4. Open the resulting local repository in VS Code.
+5. Clone the accepted repository to your computer.
+6. Open the resulting local repository in VS Code.
 
     _While the repo you clone this time only has a small README, for all other tutorials, there will be a README **and** some starting code available in the cloned repository._
 
-5. When you feel you are ready for JP to walk through [the marking script](how-things-are-checked.md) with you, DM him on Discord and be prepared to share your screen when he is ready to take a look at your work.
-
+7. When you feel you are ready for JP to walk through [the marking script](how-things-are-checked.md) with you, DM him on Discord and be prepared to share your screen when he is ready to take a look at your work.
 
 ## Karma
 
