@@ -35,7 +35,7 @@ After installing/updating VS Code, install the following extensions:
 
 ### useful VS Code settings
 
-The next two settings make formatting a snap; I'm assuming you can find out how to do these settings on your own. If you need some help, I've done a [short screencast](https://watch.screencastify.com/v/s1Dr6MFiMltfeHAmaHBq)[2:29] that goes through the process. (You'll need to log in with your mymru gmail account to access the screencast.)
+The next two settings make formatting a snap; I'm assuming you can find out how to do these settings on your own. If you need some help, I've done a [short screencast](https://watch.screencastify.com/v/s1Dr6MFiMltfeHAmaHBq) [2:29] that goes through the process. (You'll need to log in with your mymru gmail account to access the screencast.)
 
 1. Editor: Format On Save (checked)
 2. Prettier: Require Config (checked)
@@ -44,7 +44,7 @@ The next two settings make formatting a snap; I'm assuming you can find out how 
 
 For every tutorial, coding quiz, and assignment, you're going to follow the same basic workflow:
 
-1. accept a GitHub Classroom assignment (Classroom calls **everything** and assignment), thus creating a GitHub repo you have access to
+1. accept a GitHub Classroom assignment (Classroom calls **everything** an assignment), thus creating a GitHub repo you have access to
 2. clone that GitHub repo to a local repo
 3. work work work
 4. commit the changes to your local repo
