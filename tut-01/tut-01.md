@@ -18,8 +18,6 @@ This tutorial will be different in some ways from most other tutorials, in that:
 
 ## Instructions
 
-### Getting the starting repo
-
 1. [Do these things](things-to-do-beforehand.md) before continuing.
 2. [Look through the script](how-things-are-checked.md) JP will use to gauge your readiness.
 3. Go to the [GitHub Classroom Links section of the tutorials document](https://github.com/MRU-CSIS-3512-202201-001/shared-course-material/blob/main/tutorials.md#github-classroom-links) in our GitHub Org.
