@@ -2,10 +2,10 @@
 
 This is the "script" I use to get a feel for how far you've gotten. I'll ask you to:
 
-1. Open a terminal window. Enter `node -v`.
-   - Should be 16.13.something.
+1. Close VS Code if it is currently open.
 
-2. Close VS Code if it is currently open.
+2. Open a terminal window. Enter `node -v`.
+   - Should be 16.13.something.
 
 3. Open the tut-01 local repo in VS Code. Check the VS Code version (Help > About on Windows. Code > About Visual Studio Code on Mac).
    - Should be 1.63.something or higher.
