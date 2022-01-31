@@ -130,7 +130,9 @@ When you're done the steps below, `ex-03/index.html` should look like this:
 
 1. Remove the `<button>`.
   
-2. Add an `<img>` tag after the `<main>` tag; the img tag shows the source `https://via.placeholder.com/150x400?text=placeholding+is+wonderful` and the alt text `"Placehold *this*!"`
+2. Add an `<img>` inside the `<main>` tag - looking at the picture and taking a look at the html, you should be able to figure out where it's supposed to go. The img tag shows the source `https://via.placeholder.com/400x400?text=placeholding+is+wonderful,+yo` and the alt text `"Placehold *this*!"`
+
+    _The size of the image shown in the instructions might be slightly different...I don't have time to go back and fix it, unfortunately!_
 
 3. Add a `<header>` tag with an `<h1>` child that contains the text `(your name) wuz here` as the **first** child of the `<body>`. _Careful - there's nesting going on here!_
 
